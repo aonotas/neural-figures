@@ -1,5 +1,4 @@
-# neural-figures
-Neural Networks Figures
+# Awesome Figures of Neural Networks
 
 ## character-level CNN
 <img src="https://github.com/aonotas/neural-figures/blob/master/img/char_cnn.png" width="350">
