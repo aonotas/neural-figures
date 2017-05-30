@@ -15,3 +15,7 @@ File: https://github.com/aonotas/neural-figures/blob/master/fig_files/bi-lstm.od
 
 ## All Figures File
 https://github.com/aonotas/neural-figures/blob/master/fig_files/neural-networks-figures.odg
+
+
+# License
+MIT License.
