@@ -1,5 +1,8 @@
 # Awesome Figures of Neural Networks
 
+We use [LibreOffice](https://ja.libreoffice.org/) to draw these figures of neural networks.
+Please use freely our figures!
+
 ## character-level CNN
 <img src="https://github.com/aonotas/neural-figures/blob/master/img/char_cnn.png" width="350">
 File: https://github.com/aonotas/neural-figures/blob/master/fig_files/CNN.odg
